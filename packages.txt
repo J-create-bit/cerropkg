@@ -1,1 +1,23 @@
+-i Package List:
 
+Google Chrome → chrome
+Spotify → spotify 
+Zoom → zoom
+Microsoft Edge → microsoft-edge   //    ms-edge
+NVIDIA CUDA → cuda // nvidia-cuda
+Proton GE (versión mejorada de Proton) → proton-ge
+Wine con soporte para DXVK → wine-dxvk
+OnlyOffice → onlyoffice
+Docker Compose V2 → docker-compose
+Steam Tinker Launch (Herramienta avanzada para Steam) → steamtinkerlaunch
+GOG Galaxy (Cliente de GOG en Linux) → gog-galaxy
+Epic Games Launcher → epic-launcher
+Battle.net (Cliente de Blizzard) → battle-net (Requiere Wine)
+Ryujinx (Emulador de Nintendo Switch) → ryujinx 
+Yuzu (Otro emulador de Nintendo Switch) → yuzu
+PCSX2 (Emulador de PlayStation 2) → pcsx2
+RPCS3 (Emulador de PlayStation 3) → rpcs3
+Dolphin Emulator (Emulador de GameCube y Wii) → dolphin
+Cemu (Emulador de Wii U) → cemu
+
+-d Package List:
