@@ -1,6 +1,6 @@
 #!/bin/bash
 
-programa="google-chrome"
+programa="ryujinx"
 
 idioma=$(echo $LANG | cut -d_ -f1)
 

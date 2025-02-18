@@ -1,6 +1,6 @@
 #!/bin/bash
 
-programa="google-chrome"
+programa="heroic-games-launcher-bin"
 
 idioma=$(echo $LANG | cut -d_ -f1)
 

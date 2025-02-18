@@ -1,6 +1,6 @@
 #!/bin/bash
 
-programa="google-chrome"
+programa="android-studio"
 
 idioma=$(echo $LANG | cut -d_ -f1)
 
