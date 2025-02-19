@@ -36,7 +36,7 @@ Sumarizing...
 ```bash
 sudo cerropkg -i [package] #Installs a package
 
-sudo cerropkg -l #Installs all packages
+sudo cerropkg -l #Shows all available packages
 
 sudo cerropkg -d [package] #Downloads an AppImage
 ```
